@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.principal {
+  color: white;
+}
+
+.principal > h1 {
+  text-align: center;
+  padding: 20px;
+  text-decoration: underline;
+}
+
+.principal > div {
+  border: 1px solid white;
+  display: inline-block;
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
