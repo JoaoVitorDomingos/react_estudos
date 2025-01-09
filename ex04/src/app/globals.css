@@ -1,3 +1,18 @@
+h1 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.7em;
+}
+
+p {
+    font-size: 1.3em;
+}
+
 
 /* EX 04 */
 .pessoa {
@@ -43,4 +58,13 @@ footer {
     border-top: 3px solid blue;
     background-color: lightblue;
     color: black;
+}
+
+
+/* Exercício 6 */
+.aluno {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 30px;
+    margin-right: 20px;
 }
